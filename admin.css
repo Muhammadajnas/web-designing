@@ -1,0 +1,61 @@
+.label{
+  background-color: rgb(6, 163, 163);
+  height: 150px;
+  width: 100%;
+}
+
+.img{
+  width: 30px;
+  padding: 9px;
+  float: left;
+}
+.title {
+    color: #fff;
+    font-size: 64px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: helvetica Neue,Arial, Helvetica, sans-serif;
+    margin-left: 43%;
+}
+.nilgiri{
+  color: beige;
+  font-size: 17px;
+  padding-top: 16px;
+  float: left;
+}
+.about{
+  color: beige;
+  font-size: 17px;
+  float: right;
+  padding: 12px;
+}
+.login-label{
+  color: black;
+}
+.log{
+  background-color:rgb(241, 241, 241);
+}
+.login-co{
+  margin-left: 642px;
+  margin-top: 35px;
+}
+.sub-btn{
+  background-color:  rgb(6, 163, 163);
+  color:#fff;
+  height: 23px;
+  border-color: black;
+}
+.sub-btn:hover{
+  background-color:rgb(15, 15, 15);
+}
+.login-label:hover{
+  background-color: rgb(6, 163, 163);
+}
+.img1{
+  width: 32%;
+  height: 252px;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+
+
