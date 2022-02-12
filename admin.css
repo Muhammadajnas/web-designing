@@ -57,5 +57,19 @@
   margin-left: 13px;
   margin-top: 10px;
 }
-
-
+.cc{
+  padding-left: 43%;
+  padding-top: 150px;
+}
+.icon{
+  background-color: rgb(6, 163, 163);
+  height: 730px;
+  width: 225px;
+}
+.menu{
+  color: #fff;
+  font-size: 43px;
+  font-weight: bold;
+  font-family: ui-monospace;
+  padding: 43px;
+}
