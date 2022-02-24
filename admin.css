@@ -69,8 +69,6 @@
     font-family: helvetica Neue,Arial, Helvetica, sans-serif;
     margin-left: 42%;
 }
-.nav{
-}
 ul{
   list-style-type: none;
   margin: 0;
@@ -94,9 +92,27 @@ li a:hover {
   background-color:rgb(6, 163, 163);
 }
 .img2{
-  width: 26%;
-  height: 291px;
-  margin-left: 31px;
-  margin-top: 38px;
-  border-radius: 22%
+  width: 27%;
+  height: 358px;
+  margin-left: 39%;
+  margin-top: 59px;
+}
+.menu{
+  height: 48px;
+  width: 100%;
+  background-color: #333;
+}
+.t1{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  text-decoration: none;
+}
+.img3{
+  width: 50%;
+  height: 410px;
+  margin-left: -2px;
+  margin-top: 2px;
+  border-radius: 12px;
 }
